@@ -1,4 +1,4 @@
-function makeTransaction(country, price, deliveryFee) {
+function getShippingMessage(country, price, deliveryFee) {
     // ...
 }
 
